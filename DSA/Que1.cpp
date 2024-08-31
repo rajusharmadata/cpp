@@ -18,12 +18,12 @@ int binary_search(int arr[],int key,int length){
     }
     return -1;
     
-}
+} 
 
 int main(){
     int arr[]= {4,5,10,15,20,25,30,35,40,45,50,98};
     int length = sizeof(arr) / sizeof(arr[0])-1;
-    int key = 98;
+    int key = 40;
     int ans = binary_search(arr,key,length);
     
     if (ans == -1){
