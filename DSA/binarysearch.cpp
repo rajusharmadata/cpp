@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-
+// beg  = starting index  in array
+// end = ending index in array 
 // without using function
 // int main()
 // {
