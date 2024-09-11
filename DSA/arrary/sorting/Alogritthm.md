@@ -6,8 +6,8 @@
 5. repeat a & b while(j<size-i-1)
 a. if(arr[j]>arr[j+1])
    when true - swap the element 
-b. j = j+1;
-6. i = i+1;
+b. set j = j+1;
+6. set i = i+1;
 7. end 
 
   
