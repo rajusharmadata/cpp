@@ -1,6 +1,7 @@
  # Structure of a Node:
 Each node contains data and a pointer to the next node.
- ```#include <iostream>
+ ```
+ #include <iostream>
 using namespace std;
 
 class Node {
@@ -12,4 +13,5 @@ public:
         data = val;
         next = nullptr;
     }
-}; ```
+}; 
+```
