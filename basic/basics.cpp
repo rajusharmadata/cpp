@@ -11,6 +11,6 @@ int main(){
     }
     int addItem = 10;
     n++;
-    cout<<arr[4]<<endl;
+    
 
 }

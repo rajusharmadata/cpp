@@ -14,7 +14,7 @@ int n = 5;
 int postion = 4;
 int addElement = 30;
 cout<<"before adding element "<<endl;
-
+cout<<arr[4]<<endl;
 for(int i=0; i<=n;i++){
     cout<<arr[i]<<"  ";
 }
